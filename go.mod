@@ -1,5 +1,3 @@
-module game_community_backend/m
+module api
 
 go 1.20
-
-require github.com/mattn/go-sqlite3 v1.14.17 // indirect
